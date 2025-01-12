@@ -18,7 +18,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        heading: 'var(--font-heading-family)',
+        heading: 'var(--font-custom)',
       },
     },
   },
